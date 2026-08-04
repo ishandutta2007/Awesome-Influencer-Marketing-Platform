@@ -8,13 +8,20 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[GRIN](https://grin.co/)** — Popular influencer marketing platform especially strong for e-commerce and Shopify brands, with creator CRM, product seeding, and campaign management.
-- **[CreatorIQ](https://www.creatoriq.com/)** — Enterprise-grade creator marketing platform used by large brands for discovery, campaign execution, and advanced analytics.
-- **[Upfluence](https://www.upfluence.com/)** — All-in-one influencer marketing software with discovery, outreach, and e-commerce integrations.
-- **[Aspire](https://www.aspire.io/)** — Creator marketplace and campaign platform focused on UGC and brand-creator collaborations.
-- **[Traackr](https://www.traackr.com/)** — Enterprise influencer relationship management and performance analytics platform.
-- **[Modash](https://www.modash.io/)**, **[Influencity](https://influencity.com/)**, **[HypeAuditor](https://hypeauditor.com/)** — Strong discovery, audience verification, and analytics tools.
-- **[LTK](https://www.liketoknow.it/)**, **[ShopMy](https://shopmy.us/)**, **[Creator.co](https://www.creator.co/)**, **[Tagger by Sprout Social](https://sproutsocial.com/)** — Creator commerce, affiliate, and social-suite influencer solutions.
+| Platform | Description | Pricing | Free Tier / Limit | Company Size |
+| :--- | :--- | :--- | :--- | :--- |
+| **[LTK](https://www.liketoknow.it/)** | Creator commerce, affiliate, and social-suite influencer solutions. | Custom / Enterprise | Free for creators | ~$2B Valuation |
+| **[CreatorIQ](https://www.creatoriq.com/)** | Enterprise-grade creator marketing platform used by large brands for discovery, campaign execution, and advanced analytics. | Custom / Enterprise | No free tier | ~$1B Valuation |
+| **[GRIN](https://grin.co/)** | Popular influencer marketing platform especially strong for e-commerce and Shopify brands, with creator CRM, product seeding, and campaign management. | Custom / Enterprise | No free tier | ~$900M Valuation |
+| **[Tagger by Sprout Social](https://sproutsocial.com/)** | Creator commerce, affiliate, and social-suite influencer solutions. | Custom / Enterprise | No free tier | ~$140M Valuation |
+| **[Upfluence](https://www.upfluence.com/)** | All-in-one influencer marketing software with discovery, outreach, and e-commerce integrations. | Custom / Enterprise | No free tier | ~$100M Valuation |
+| **[Traackr](https://www.traackr.com/)** | Enterprise influencer relationship management and performance analytics platform. | Custom / Enterprise | No free tier | ~$50M Valuation |
+| **[Aspire](https://www.aspire.io/)** | Creator marketplace and campaign platform focused on UGC and brand-creator collaborations. | Custom / Enterprise | No free tier | ~$50M Valuation |
+| **[HypeAuditor](https://hypeauditor.com/)** | Strong discovery, audience verification, and analytics tools. | Custom / Enterprise | Free basic account (limited data) | ~$40M Valuation |
+| **[Modash](https://www.modash.io/)** | Strong discovery, audience verification, and analytics tools. | Starts at $199/month | No free tier (14-day trial) | ~$20M Valuation |
+| **[ShopMy](https://shopmy.us/)** | Creator commerce, affiliate, and social-suite influencer solutions. | Custom / Enterprise | Free for creators | ~$15M Valuation |
+| **[Influencity](https://influencity.com/)** | Strong discovery, audience verification, and analytics tools. | Starts at ~$168/month | No free tier (7-day trial) | ~$10M Valuation |
+| **[Creator.co](https://www.creator.co/)** | Creator commerce, affiliate, and social-suite influencer solutions. | Starts at ~$395/month | No free tier | ~$5M Valuation |
 
 ## 🔓 Open-Source Software
 
