@@ -1,4 +1,8 @@
-# Awesome-Influencer-Marketing-Platform\n#
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Influencer Marketing Platform Banner" />
+</div>
+
+# Awesome-Influencer-Marketing-Platform
 
 ## Similar Projects to Influencer Marketing Platforms
 
