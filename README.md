@@ -4,6 +4,10 @@
 
 # Awesome-Influencer-Marketing-Platform
 
+> A comprehensive, curated list of the best open-source and commercial influencer marketing platforms, creator CRMs, campaign tracking tools, and social analytics software. Discover the top tools to run creator campaigns on Instagram, TikTok, and YouTube.
+
+**Keywords:** Influencer Marketing, Creator Economy, Creator CRM, Social Media Analytics, TikTok Affiliate, Brand Collaborations, Open-Source CRM, Marketing Automation.
+
 ## 🌟 Similar Projects to Influencer Marketing Platforms
 
 **Influencer Marketing Platforms** help brands discover creators, manage relationships, run campaigns, track performance, handle payments, and measure ROI across Instagram, TikTok, YouTube, and other channels. Leading commercial platforms include GRIN, CreatorIQ, Upfluence, Aspire, Traackr, Modash, Influencity, LTK, ShopMy, HypeAuditor, Creator.co, and Tagger by Sprout Social.
