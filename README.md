@@ -26,13 +26,13 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 ## 🔓 Open-Source Software
 
 ### Dedicated Open-Source Creator / Influencer Tools
-- **[InfluenceX](https://github.com/oratis/influencex)** — Open-source KOL (Key Opinion Leader) marketing automation platform. Supports multi-platform creator discovery, outreach pipelines, campaign management, and ROI tracking. Self-hostable and MIT-licensed.
-- **[Creator Command Center](https://github.com/0xjitsu/creator-command-center)** — Open-source creator outreach platform designed for GTM teams. Includes CRM, multi-channel messaging, campaign templates, rate limiting, and pipeline analytics. Built with modern web technologies and deployable quickly.
+- **[InfluenceX](https://github.com/oratis/influencex)** [![GitHub stars](https://img.shields.io/github/stars/oratis/influencex?style=social&color=white)](https://github.com/oratis/influencex/stargazers) — Open-source KOL (Key Opinion Leader) marketing automation platform. Supports multi-platform creator discovery, outreach pipelines, campaign management, and ROI tracking. Self-hostable and MIT-licensed.
+- **[Creator Command Center](https://github.com/0xjitsu/creator-command-center)** [![GitHub stars](https://img.shields.io/github/stars/0xjitsu/creator-command-center?style=social&color=white)](https://github.com/0xjitsu/creator-command-center/stargazers) — Open-source creator outreach platform designed for GTM teams. Includes CRM, multi-channel messaging, campaign templates, rate limiting, and pipeline analytics. Built with modern web technologies and deployable quickly.
 - Community and emerging projects focused on TikTok Shop affiliate outreach, AI-assisted creator CRM, and campaign workflow automation (search GitHub for “creator outreach” or “influencer CRM”).
 
 ### Open-Source CRM & Relationship Management Foundations
-- **[Twenty CRM](https://github.com/twentyhq/twenty)** — Modern, developer-friendly open-source CRM that teams can adapt for creator relationship management.
-- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** — Mature, feature-rich open-source CRM suitable for managing large creator databases, campaigns, and communications.
+- **[Twenty CRM](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) — Modern, developer-friendly open-source CRM that teams can adapt for creator relationship management.
+- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers) — Mature, feature-rich open-source CRM suitable for managing large creator databases, campaigns, and communications.
 - **Savannah** — Open-source Community Relationship Manager (CoRM) focused on community building rather than pure sales — useful for long-term creator and ambassador programs.
 - Other open-source CRMs (e.g., ERPNext CRM modules) that can be customized for influencer workflows.
 
