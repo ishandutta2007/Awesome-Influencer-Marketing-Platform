@@ -30,6 +30,7 @@ Below is a **curated list** 📋 of notable platforms and their open-source equi
 | **[Traackr](https://www.traackr.com/)** | Enterprise influencer relationship management and performance analytics platform. | Custom / Enterprise | No free tier | ~$50M Valuation |
 | **[Aspire](https://www.aspire.io/)** | Creator marketplace and campaign platform focused on UGC and brand-creator collaborations. | Custom / Enterprise | No free tier | ~$50M Valuation |
 | **[HypeAuditor](https://hypeauditor.com/)** | Strong discovery, audience verification, and analytics tools. | Custom / Enterprise | Free basic account (limited data) | ~$40M Valuation |
+| **[igtrackr](https://igtrackr.com/)** | Instagram follower tracking and analytics for any public account: recent follows, follower growth, engagement rate and hashtag analysis, with CSV/JSON export. | From $9/month | Free tier (no login or card) | Indie |
 | **[Modash](https://www.modash.io/)** | Strong discovery, audience verification, and analytics tools. | Starts at $199/month | No free tier (14-day trial) | ~$20M Valuation |
 | **[ShopMy](https://shopmy.us/)** | Creator commerce, affiliate, and social-suite influencer solutions. | Custom / Enterprise | Free for creators | ~$15M Valuation |
 | **[Influencity](https://influencity.com/)** | Strong discovery, audience verification, and analytics tools. | Starts at ~$168/month | No free tier (7-day trial) | ~$10M Valuation |
