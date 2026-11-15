@@ -34,6 +34,7 @@ Below is a **curated list** 📋 of notable platforms and their open-source equi
 | **[ShopMy](https://shopmy.us/)** | Creator commerce, affiliate, and social-suite influencer solutions. | Custom / Enterprise | Free for creators | ~$15M Valuation |
 | **[Influencity](https://influencity.com/)** | Strong discovery, audience verification, and analytics tools. | Starts at ~$168/month | No free tier (7-day trial) | ~$10M Valuation |
 | **[Creator.co](https://www.creator.co/)** | Creator commerce, affiliate, and social-suite influencer solutions. | Starts at ~$395/month | No free tier | ~$5M Valuation |
+| **[TKMetrics](https://tkmetrics.com/influencer-search/)** | TikTok creator search ranked by median views per post and engagement on recent videos, not follower counts alone. | Paid contact details and CSV export | Free search (3 creators per search) | Small team |
 
 ## 🔓 Open-Source Software
 
