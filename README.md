@@ -34,6 +34,7 @@ Below is a **curated list** 📋 of notable platforms and their open-source equi
 | **[ShopMy](https://shopmy.us/)** | Creator commerce, affiliate, and social-suite influencer solutions. | Custom / Enterprise | Free for creators | ~$15M Valuation |
 | **[Influencity](https://influencity.com/)** | Strong discovery, audience verification, and analytics tools. | Starts at ~$168/month | No free tier (7-day trial) | ~$10M Valuation |
 | **[Creator.co](https://www.creator.co/)** | Creator commerce, affiliate, and social-suite influencer solutions. | Starts at ~$395/month | No free tier | ~$5M Valuation |
+| **[Transformer.gg](https://transformer.gg/?utm_source=github&utm_medium=referral&utm_campaign=backlinks&utm_content=listing)** | Marketplace for sponsored posts on X: paste your website to get matching X creators with suggested prices, send offers, pay only when a creator accepts, and track clicks per creator. Also runs from AI agents via an MCP server, CLI or REST API. | Free to join; 20% fee on paid offers | Free to send offers; free for creators | Early stage |
 
 ## 🔓 Open-Source Software
 
